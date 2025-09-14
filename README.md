@@ -45,3 +45,10 @@ If you like this project and want to support my journey:
 
 📄 License
 This project is licensed under the MIT License — feel free to use and modify it.
+
+## How to Run
+1. Clone this repo or download ZIP  
+2. Make sure you have Python 3.10+ installed  
+3. Install requirements:
+   ```bash
+   pip install -r requirements.txt
